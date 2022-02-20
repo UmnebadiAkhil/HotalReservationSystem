@@ -4,15 +4,20 @@ using System.Text;
 
 namespace HotelReservationSystem
 {
+    /// <summary>
+    /// exception class
+    /// </summary>
+    /// <seealso cref="System.Exception" />
     public class HotelReservationException : Exception
     {
         public enum ExceptionType
         {
-            INVALID_HOTEL_TYPE
+            INVALID_HOTEL_TYPE,
+            INVALID_DATE
         }
 
         /// <summary>
-        /// The type of exception
+        /// The type
         /// </summary>
         ExceptionType type;
 

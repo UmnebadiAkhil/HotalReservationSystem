@@ -7,17 +7,18 @@ namespace HotelReservationTest
     public class UnitTest1
     {
         /// <summary>
-        /// This test case is checking whether add hotel test method is working or not
+        /// Givens the date range should return cheapest hotel.
         /// </summary>
         [TestMethod]
-        public void AddHotelTest()
+        public void Given_DateRange_Should_Return_CheapestHotel()
         {
+            HotelService service = new HotelService();
             //Act
-            Hotel hotel = new Hotel(HotelType.RIDGEWOOD);
+            HotelType hotel = service.FindCheapestHotel("2020-09-10", "2020-09-11");
             //Arrange
-            double expectedRate = 220;
+            HotelType expected = HotelType.LAKEWOOD;
             //Assert
-            Assert.AreEqual(expectedRate, hotel.RATE);
+            Assert.AreEqual(hotel, expected);
         }
     }
 }

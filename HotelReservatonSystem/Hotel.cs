@@ -40,5 +40,33 @@ namespace HotelReservationSystem
                 throw new HotelReservationException(HotelReservationException.ExceptionType.INVALID_HOTEL_TYPE, "Invalid Hotel Type");
             }
         }
+
+        /// <summary>
+        /// Finds the total cost.
+        /// </summary>
+        /// <param name="startDateString">The start date string.</param>
+        /// <param name="endDateString">The end date string.</param>
+        /// <returns></returns>
+        /// <exception cref="HotelReservationException">Invalid date entered</exception>
+        public double FindTotalCost(string startDateString, string endDateString)
+        {
+            //variable
+            double TotalCost = 0;
+            try
+            {
+                //converts the start date and time value to an equivalent string representation of date and time
+                DateTime startDate = Convert.ToDateTime(startDateString);
+                //converts the end date and time value to an equivalent string representation of date and time
+                DateTime endDate = Convert.ToDateTime(endDateString);
+                //finding difference of days between dates
+                int days = (int)((endDate - startDate).TotalDays);
+                TotalCost = days * this.RATE;
+            }
+            catch (Exception)
+            {
+                throw new HotelReservationException(HotelReservationException.ExceptionType.INVALID_DATE, "Invalid date entered");
+            }
+            return TotalCost;
+        }
     }
 }
