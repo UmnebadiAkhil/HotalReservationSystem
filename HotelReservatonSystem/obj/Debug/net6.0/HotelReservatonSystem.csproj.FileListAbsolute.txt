@@ -1,0 +1,15 @@
+C:\Users\akhil\OneDrive\Desktop\TerminalCommands\RFP\HotalReservationSystem\HotelReservatonSystem\bin\Debug\net6.0\HotelReservatonSystem.exe
+C:\Users\akhil\OneDrive\Desktop\TerminalCommands\RFP\HotalReservationSystem\HotelReservatonSystem\bin\Debug\net6.0\HotelReservatonSystem.deps.json
+C:\Users\akhil\OneDrive\Desktop\TerminalCommands\RFP\HotalReservationSystem\HotelReservatonSystem\bin\Debug\net6.0\HotelReservatonSystem.runtimeconfig.json
+C:\Users\akhil\OneDrive\Desktop\TerminalCommands\RFP\HotalReservationSystem\HotelReservatonSystem\bin\Debug\net6.0\HotelReservatonSystem.dll
+C:\Users\akhil\OneDrive\Desktop\TerminalCommands\RFP\HotalReservationSystem\HotelReservatonSystem\bin\Debug\net6.0\HotelReservatonSystem.pdb
+C:\Users\akhil\OneDrive\Desktop\TerminalCommands\RFP\HotalReservationSystem\HotelReservatonSystem\obj\Debug\net6.0\HotelReservatonSystem.csproj.AssemblyReference.cache
+C:\Users\akhil\OneDrive\Desktop\TerminalCommands\RFP\HotalReservationSystem\HotelReservatonSystem\obj\Debug\net6.0\HotelReservatonSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akhil\OneDrive\Desktop\TerminalCommands\RFP\HotalReservationSystem\HotelReservatonSystem\obj\Debug\net6.0\HotelReservatonSystem.AssemblyInfoInputs.cache
+C:\Users\akhil\OneDrive\Desktop\TerminalCommands\RFP\HotalReservationSystem\HotelReservatonSystem\obj\Debug\net6.0\HotelReservatonSystem.AssemblyInfo.cs
+C:\Users\akhil\OneDrive\Desktop\TerminalCommands\RFP\HotalReservationSystem\HotelReservatonSystem\obj\Debug\net6.0\HotelReservatonSystem.csproj.CoreCompileInputs.cache
+C:\Users\akhil\OneDrive\Desktop\TerminalCommands\RFP\HotalReservationSystem\HotelReservatonSystem\obj\Debug\net6.0\HotelReservatonSystem.dll
+C:\Users\akhil\OneDrive\Desktop\TerminalCommands\RFP\HotalReservationSystem\HotelReservatonSystem\obj\Debug\net6.0\refint\HotelReservatonSystem.dll
+C:\Users\akhil\OneDrive\Desktop\TerminalCommands\RFP\HotalReservationSystem\HotelReservatonSystem\obj\Debug\net6.0\HotelReservatonSystem.pdb
+C:\Users\akhil\OneDrive\Desktop\TerminalCommands\RFP\HotalReservationSystem\HotelReservatonSystem\obj\Debug\net6.0\HotelReservatonSystem.genruntimeconfig.cache
+C:\Users\akhil\OneDrive\Desktop\TerminalCommands\RFP\HotalReservationSystem\HotelReservatonSystem\obj\Debug\net6.0\ref\HotelReservatonSystem.dll
